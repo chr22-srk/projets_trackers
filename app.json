@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Savings Tracker",
-    "slug": "savings-tracker",
+    "slug": "projetstrackers",
     "version": "1.0.0",
     "platforms": ["android"],
     "android": {
