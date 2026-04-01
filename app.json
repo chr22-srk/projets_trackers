@@ -1,29 +1,11 @@
 {
   "expo": {
-    "name": "projets",
-    "slug": "snack-e29eb22c-cab3-490e-b4e5-4354f5957688",
+    "name": "Savings Tracker",
+    "slug": "savings-tracker",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
-    "userInterfaceStyle": "light",
-    "newArchEnabled": true,
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
-    },
-    "ios": {
-      "supportsTablet": true
-    },
+    "platforms": ["android"],
     "android": {
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
-    "web": {
-      "favicon": "./assets/favicon.png"
+      "package": "com.chr22srk.savingstracker"
     }
   }
 }
