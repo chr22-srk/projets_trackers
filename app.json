@@ -6,6 +6,11 @@
     "platforms": ["android"],
     "android": {
       "package": "com.chr22srk.savingstracker"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "8fbb4061-45c1-46ee-8c19-b64f7597df6b"
+      }
     }
   }
 }
