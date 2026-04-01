@@ -3,9 +3,16 @@
     "name": "Savings Tracker",
     "slug": "projetstrackers",
     "version": "1.0.0",
-    "platforms": ["android"],
+    "platforms": [
+      "android"
+    ],
+    "icon": "./icon.png",
     "android": {
-      "package": "com.chr22srk.savingstracker"
+      "package": "com.chr22srk.savingstracker",
+      "adaptiveIcon": {
+        "foregroundImage": "./icon.png",
+        "backgroundColor": "#0a0a0a"
+      }
     },
     "extra": {
       "eas": {
